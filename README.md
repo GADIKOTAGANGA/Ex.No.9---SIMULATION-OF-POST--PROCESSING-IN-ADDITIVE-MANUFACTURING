@@ -46,8 +46,9 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output!
-[Screenshot 2025-04-30 105242](https://github.com/user-attachments/assets/a7e53fd2-c6fa-48f1-b9d6-e8f97cae8265)
-:
+
+:![Screenshot 2025-04-30 105242](https://github.com/user-attachments/assets/80dca404-4450-4438-a19b-369d63e2c3d3)
+
 ### Name:G.Ganga devi
 ### Register Number:212224240042
 
