@@ -9,7 +9,6 @@
 ### System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-
 ## Procedure for support removal
 ### 1.	Select support removal from the list.
 ### 2.	All the parts related to support removal are shown on the screen.
@@ -54,3 +53,4 @@
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+
